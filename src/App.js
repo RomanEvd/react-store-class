@@ -1,5 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
+import ShopItemClass from './components/ShopItemClass';
+import PropTypes from 'prop-types'
+import './CSS/main.css';
+import Product from './Product';
 
 function App() {
   return (
